@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SIMBT_03/static/css/main.0ff3ec47.css",
+    "main.js": "/SIMBT_03/static/js/main.25953606.js",
+    "static/media/resumecreation.png": "/SIMBT_03/static/media/resumecreation.64fdff69c296cd510070.png",
+    "index.html": "/SIMBT_03/index.html",
+    "main.0ff3ec47.css.map": "/SIMBT_03/static/css/main.0ff3ec47.css.map",
+    "main.25953606.js.map": "/SIMBT_03/static/js/main.25953606.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff3ec47.css",
+    "static/js/main.25953606.js"
+  ]
+}
