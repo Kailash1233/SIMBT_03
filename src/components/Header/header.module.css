@@ -1,0 +1,22 @@
+.Header_main_container {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Header_starting_content {
+  flex: 4;
+  font-size: 90px;
+  font-weight: 600;
+}
+
+.Header_starting_content span {
+  color: #6c63ff;
+}
+
+.Header_main_container img {
+  flex: 4;
+  width: 60%;
+}

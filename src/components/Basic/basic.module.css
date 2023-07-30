@@ -1,0 +1,50 @@
+.basic_main_container {
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+
+.basic_main_container > div {
+  font-size: 21px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.basic_main_container > form {
+  width: 60%;
+  margin: auto;
+}
+
+.basic_main_container > form > div {
+  position: relative;
+}
+
+.basic_main_container > form > div > label {
+  position: absolute;
+  top: 15px;
+  left: 5%;
+  background-color: white;
+}
+
+.basic_main_container > form > div > input,
+.basic_main_container > form > div > textarea {
+  padding: 16px 8px 13px 8px;
+  font-size: 1.3rem;
+  width: 100%;
+  margin-top: 25px;
+}
+
+#submitButton {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 50px;
+  padding: 12px 12px;
+  background-color: #6c63ff;
+  color: white;
+  font-weight: bold;
+  font-size: 21px;
+  border: none;
+  border-radius: 12px;
+}

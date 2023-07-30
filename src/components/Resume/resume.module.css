@@ -1,0 +1,106 @@
+.Resume_container {
+  min-width: 700px;
+  max-width: 850px;
+  height: fit-content;
+  min-height: 900px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  margin: auto;
+  margin-top: 70px;
+  padding: 30px;
+}
+
+.Resume_Personal_detail_main_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.Resume_Personal_detail_name_div > h1:first-child {
+  font-weight: bold;
+  font-size: 37px;
+  color: #6c63ff;
+}
+
+.Resume_Personal_detail_name_div > h1:last-child {
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+.Resume_Personal_detail_address_div > p > i {
+  color: #6c63ff;
+  margin-right: 9px;
+}
+
+.horizontal_line {
+  border: 1px solid #6c63ff;
+  margin-top: 10px;
+}
+
+.Resume_Personal_detail_profile {
+  font-size: 20px;
+  margin-top: 12px;
+}
+
+.Resume_second_main_div {
+  margin-top: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Resume_education_skill_main_div {
+  flex: 4;
+  padding: 9px 9px 4px 12px;
+}
+
+.Resume_experience_main_div {
+  flex: 4;
+  padding: 9px 9px 4px 12px;
+}
+
+.Resume_second_div_heading {
+  font-size: 22px;
+  margin-bottom: 2px;
+}
+
+.horizontal_line_second {
+  width: 60%;
+  border: 1px solid #6c63ff;
+  margin-bottom: 12px;
+}
+
+.Resume_Skills_main_div {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+
+.Resume_Education_main_div {
+  margin-bottom: 10px;
+}
+
+.Resume_Education_main_div > p:nth-child(1) {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Resume_Experience_main_div {
+  margin-bottom: 15px;
+}
+
+.Resume_Experience_main_div > p:nth-child(1) {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Resume_Personal_detail_linkedin > p > i {
+  color: #6c63ff;
+  margin-right: 9px;
+}
+
+.Resume_Personal_detail_github > p > i {
+  color: #6c63ff;
+  margin-right: 9px;
+}
